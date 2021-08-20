@@ -9,7 +9,11 @@ layout: default
 
 I am an applied machine learning engineer/data scientist from Helsinki, Finland. I enjoy good movies, good food at home and walks in the forest with my dog.
 
+---
 
+![My photo]({{site.baseurl}}/assets/aleksander.jpg)
+
+---
 
 ## My dog
 
