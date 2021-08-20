@@ -7,10 +7,20 @@ layout: default
 
 # Meet Aleksander
 
-I am an applied machine learning engineer/data scientist from Helsinki, Finland. I enjoy good movies, good food at home and walks in the forest with my dog. ![My Finnish Spitz](/assets/dog.jpg)
+I am an applied machine learning engineer/data scientist from Helsinki, Finland. I enjoy good movies, good food at home and walks in the forest with my dog.
 
-## this is a test subsection
 
-- this is a 
-- test
-- list
+
+## My dog
+
+My dog is a ~5 year old Finnish Spitz called Reksi. Favorite things are running at full speed in the woods and barking at squirrels and ducks.
+
+---
+
+![My Finnish Spitz]({{site.baseurl}}/assets/dog.jpg)
+
+---
+
+## My resume
+
+Information about my background can be found on [my linkedin page](https://www.linkedin.com/in/aleksander-lempinen-425817a0/)
