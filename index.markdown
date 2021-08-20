@@ -5,9 +5,9 @@
 layout: default
 ---
 
-# Test page
+# Meet Aleksander
 
-this is a test paragraph
+I am an applied machine learning engineer/data scientist from Helsinki, Finland. I enjoy good movies, good food at home and walks in the forest with my dog. ![My Finnish Spitz](/assets/dog.jpg)
 
 ## this is a test subsection
 
